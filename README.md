@@ -1,3 +1,5 @@
+Use https://www.typescriptlang.org/play to answer the questions.
+
 ## 1. Nested Object Flattening
 
 **Problem:**  
